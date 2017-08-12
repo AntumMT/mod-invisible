@@ -1,0 +1,1 @@
+Hides players nametag when they are sneaking, or invisible if you have the invisible privilege.
