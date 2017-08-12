@@ -11,4 +11,4 @@ Give yourself the invisible stick, to toggle your invisible on/off
 /giveme i
 
 V3
-Fixed: will not work wihtout armor
+Fixed: will not work without armor
